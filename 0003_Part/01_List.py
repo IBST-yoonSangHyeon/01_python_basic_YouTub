@@ -42,7 +42,7 @@ x = [4, 2, 3, 1]
 y = sorted(x)
 print(y)
 
-# sun 함수 : 합계를 구함
+# sum 함수 : 합계를 구함
 x = [4, 2, 3, 1, int("1")]
 
 z = sum(x)

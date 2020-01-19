@@ -45,7 +45,7 @@ print("name" in x) # True
 
 # keys 함수 : 딕셔너리의 모든 Key 값을 구해줌
 print(x.keys())
-# : 딕셔너리의 모든 Value를 구해줌
+# values 함수 : 딕셔너리의 모든 Value를 구해줌
 print(x.values())
 
 ## 딕셔너리 반복문 
