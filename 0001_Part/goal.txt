@@ -1,0 +1,6 @@
+#수업 목표
+1. 변수(01_variables.py)
+2. 타입(02_type.py)
+3. 조건문(03_ifElse.py)
+4. 함수(04_Function.py)
+5. 복습(05_review.py)

@@ -1,0 +1,2 @@
+#추후 정리할 예정입니다.
+python.exe -m pip install -U pylint 
