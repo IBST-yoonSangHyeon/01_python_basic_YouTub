@@ -1,0 +1,6 @@
+# 수업 목표
+클래스, 오브젝트
+1. 클래스 기본 (01_Class.py)
+2. 클래스 init (02_Class_init.py)
+3. 클래스 상속 (03_Class_inheritance.py)
+
