@@ -1,0 +1,4 @@
+# 수업 목표
+패키지 & 모듈
+1. 패키지 (01_package.py)
+2. 외부 패키지 사용 (02_outside_package.py)
